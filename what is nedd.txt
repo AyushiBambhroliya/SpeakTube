@@ -1,0 +1,8 @@
+introduction --> chatbots
+
+useing dowenloding the pakages 
+
+- pip install speechrecognition
+-pip install wikipedia
+-pip install openai(open Ai for the gogal shering)
+-
